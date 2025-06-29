@@ -2,10 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&text=Hi+!+I+am+Astha&height=150&section=header"/>
 </p>
 
-
+<p align="left">
+  I am Astha Sahu, a final year student at IIT Bombay. I am majoring in Chemical Engineering and pursuing a minor in Robotics.
+  *glitches*
+You’ve just wandered into the GitHub of Astha. Someone who once set out to study Chemical Engineering (forcibly), but somewhere between equations and heat exchangers, fell in love with robots, and coding. She is powered almost entirely by curiosity and dangerously strong coffee. Her projects live on the thrilling edge between “genius” and “please don’t crashhhh.” She believes tech should be smart, and occasionally silly.
+</p>
 
   
-<h2> Some Programming Languages I Have Learned/Used </h2>
+<h2> Some Programming Languages she has Learned/Used </h2>
 <p align="left">
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45"/>
@@ -20,7 +24,7 @@
 </p>
 PS: I do know HTML and CSS aren't programming languages :)
 
-<h2> Some Softwares/Frameworks I Have Used </h2>
+<h2> Some Softwares/Frameworks She has Used </h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" width="45" height="45" />
@@ -41,8 +45,10 @@ PS: I do know HTML and CSS aren't programming languages :)
 </p>
 
 <p align="center">
-  You can find me with various names. Cranelle and Veloria are my pen-names. Yeah! I like writing (horror fictions mostly). You can find me as WindyOrbits while I am gaming. Reddit? Well, I am whole different person there. Let's keep that a secret. Hehe :)  
+  You can find her with various names. Cranelle and Veloria are her pen-names. Yeah! she likes writing (horror fictions mostly). You can find her as WindyOrbits while she is gaming. Reddit? Well, she is whole different person there. Who isn't? Hehe ;)  
 </p>
+
+Please go stalk/annoy her 
 
 <p align="center">
 

@@ -4,7 +4,9 @@
 
 <p align="left">
   I am Astha Sahu, a final year student at IIT Bombay. I am majoring in Chemical Engineering and pursuing a minor in Robotics.
+  
   *glitches*
+  
 You’ve just wandered into the GitHub of Astha. Someone who once set out to study Chemical Engineering (forcibly), but somewhere between equations and heat exchangers, fell in love with robots, and coding. She is powered almost entirely by curiosity and dangerously strong coffee. Her projects live on the thrilling edge between “genius” and “please don’t crashhhh.” She believes tech should be smart, and occasionally silly.
 </p>
 

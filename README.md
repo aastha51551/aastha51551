@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&text=Hi!I_am_Astha&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&text=Hi-!-I-am-Astha&height=150&section=header"/>
 </p>
 
 
@@ -16,6 +16,7 @@
 </p>
 
 <h2> Some Softwares/Frameworks I Have Used </h2>
+<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" alt="anaconda" width="45" height="45" />
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/05/autodesk_fusion_360_logo-freelogovectors.net_.png" alt="fusion360" width="45" height="45" />

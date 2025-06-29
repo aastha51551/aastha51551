@@ -46,7 +46,7 @@ PS: I do know HTML and CSS aren't programming languages :)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 </p>
 
-<p align="center">
+<p align="left">
   You can find her with various names. Cranelle and Veloria are her pen-names. Yeah! she likes writing (horror fictions mostly). You can find her as WindyOrbits while she is gaming. Reddit? Well, she is whole different person there. Who isn't? Hehe ;)  
 </p>
 
